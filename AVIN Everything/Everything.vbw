@@ -1,0 +1,8 @@
+frmMain = 196, 94, 733, 542, Z, 22, 22, 559, 470, C
+mdlAPI = 44, 44, 581, 492, 
+mdlDefs = 0, 0, 0, 0, C
+mdlDialer = 0, 0, 0, 0, C
+mdlScreen = 0, 0, 0, 0, C
+mdlSysControl = 0, 0, 0, 0, C
+mdlSysInfo = 0, 0, 0, 0, C
+frmDialCancel = 0, 0, 0, 0, C, 0, 0, 0, 0, C
